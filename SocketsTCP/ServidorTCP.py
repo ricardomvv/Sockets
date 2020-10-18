@@ -1,3 +1,5 @@
+#sockets TCP by ricardomvv
+
 # importacao das bibliotecas
 from socket import * # sockets
 
