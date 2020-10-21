@@ -1,3 +1,5 @@
+#sockets UDP by ricardomvv
+
 # importacao das bibliotecas
 from socket import * # sockets
 import time
